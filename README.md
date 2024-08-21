@@ -8,4 +8,5 @@ extension.
 FEATURES
 
 Django-HTML integration: This is a feature that utilizes Django's templating system to render HTML pages.
+
 Static Files: This uses CSS, JavaScript and image files to enhance the UI/UX.
