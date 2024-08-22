@@ -23,7 +23,7 @@ Installation
    python3 -m venv venv
    source venv/bin/activate
    ```
-4) Run migrations**:
+4) Run migrations:
    ```bash
    python manage.py migrate
    ```
